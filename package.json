@@ -4,6 +4,9 @@
     "start": "webpack-dev-server --mode development --hot"
   },
   "dependencies": {
+    "@babel/polyfill": "7.2.5",
+    "axios": "0.18.0",
+    "prop-types": "15.6.2",
     "react": "16.8.1",
     "react-dom": "16.8.1",
     "react-hot-loader": "4.6.5"
